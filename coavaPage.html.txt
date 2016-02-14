@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Code 101 Template</title>
+        <link REL="StyleSheet" TYPE="text/css" HREF="left_nav.css">
+    </head>
+    <body>
+        <header>
+            <h1>Coava</h1>
+        </header>
+        <nav>
+            <ul>
+              <li><a href="portlandCoffee.html">Homepage</a></li>
+              <li><a href="">Stumptown</a></li>
+              <li><a href="">Water Avenue</a></li>
+            </ul>
+        </nav>
+        <section>
+            <img src="http://s3-media3.fl.yelpcdn.com/bphoto/yHZFmphAE6reBYj1cSZziA/o.jpg" /> <br />
+                <article>
+                  <h2>Craft and Hospitality</h2>
+                  <p>
+                    Founded in 2008 by Matt Higgins, Coava has had a physical presence in Southeast Portland on Grand Avenue since 2010. Expansion since then has been to another cafe on Hawthorne Avenue in addition to wholesale and online retail sales.
+  Once you arrive at the coffee bar you will be offered a clipboard with the day&rsquo;s selection of coffees listing origin and tasting notes. Coffees are divided between whether they are offered in drip or espresso methods. The highlight of choosing coffee prepared with a Chemex is the use of an Able Kone filter which was co-designed by the founder. Additionally, Coava offers cold brew and a changing selection of local pastries.
+  <p>Coava&rsquo;s cafes are located at:</p>
+  <p>2631 SE Hawthorne Blvd Portland, OR 97214</p>
+  <p>1300 SE Grand Ave Portland, OR 97214</p>
+  <p>www.coavacoffee.com</p>
+
+
+                </article>
+        </section>
+        <footer>
+        &#169; Code Fellows PC Users 2016
+        </footer>
+    </body>
+</html>
